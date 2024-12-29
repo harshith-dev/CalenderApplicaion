@@ -72,7 +72,7 @@ function CalendarView() {
     };
 
     const eventStyleGetter = (event) => {
-        let backgroundColor = event.isPastEvent ? "#3498db" : "#2ecc71";
+        let backgroundColor = event.isPastEvent ? "#FF0000" : "#9aa61a";
         let style = {
             backgroundColor,
             borderRadius: "6px",

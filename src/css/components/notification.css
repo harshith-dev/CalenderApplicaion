@@ -9,7 +9,7 @@
     font-size: 1.8rem;
     font-weight: 600;
     text-align: center;
-    background: linear-gradient(135deg, #4f46e5, #7c3aed);
+    background: linear-gradient(135deg, #110674, #7348bd);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 1.5rem;
@@ -46,8 +46,8 @@
 }
 
 .overdue-item:hover {
-    background: #f5f3ff;
-    transform: translateX(2px);
+    background: azure;
+    transform: scale(1.05) translateX(-15px)!important;
 }
 
 .action-link {
@@ -64,7 +64,8 @@
 }
 
 .action-link:hover {
-    background: #4338ca;
+    background: #0c89c4;
+    transform:scale3d(1.05, 1.05, 1.05);
 }
 
 @media (max-width: 768px) {
