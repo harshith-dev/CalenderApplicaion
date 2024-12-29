@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harshith-dev/CalenderApplicaion/static/css/main.4e3bfbf3.css",
+    "main.js": "/harshith-dev/CalenderApplicaion/static/js/main.faee7189.js",
+    "static/js/453.54781218.chunk.js": "/harshith-dev/CalenderApplicaion/static/js/453.54781218.chunk.js",
+    "index.html": "/harshith-dev/CalenderApplicaion/index.html",
+    "main.4e3bfbf3.css.map": "/harshith-dev/CalenderApplicaion/static/css/main.4e3bfbf3.css.map",
+    "main.faee7189.js.map": "/harshith-dev/CalenderApplicaion/static/js/main.faee7189.js.map",
+    "453.54781218.chunk.js.map": "/harshith-dev/CalenderApplicaion/static/js/453.54781218.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e3bfbf3.css",
+    "static/js/main.faee7189.js"
+  ]
+}
