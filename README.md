@@ -70,6 +70,7 @@ root/
     |-- index.js
 ```
 
+
 ### Key Components
 - **NotificationsPage**: Displays overdue and today’s communications.
 - **CalendarView**: Provides a calendar interface for past and upcoming communications.
@@ -105,9 +106,17 @@ root/
 
 ---
 
+## Deployment
+Access the deployed application at: [Communication Tracker](https://harshith-dev.github.io/MyReactApp/index.html)
+
+---
+
 ## Future Enhancements
 - Add a Reporting and Analytics Module for actionable insights.
 - Implement advanced authentication and authorization.
 
 ---
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
